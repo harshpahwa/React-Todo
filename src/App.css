@@ -45,6 +45,7 @@
 }
 
 .task-container{
+  height: 200vh;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
